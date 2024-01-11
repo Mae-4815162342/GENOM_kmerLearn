@@ -1,2 +1,8 @@
 database/archea/*
 database/bacteria/*
+profiles/archea/3-mers_profiles/*
+profiles/archea/5-mers_profiles/*
+profiles/archea/8-mers_profiles/*
+profiles/bacteria/3-mers_profiles/*
+profiles/bacteria/5-mers_profiles/*
+profiles/bacteria/8-mers_profiles/*
